@@ -1,0 +1,10 @@
+{
+  "files.exclude": {
+    "**/.*": true,
+    "**/*test*": true,
+    "**/node_modules": true,
+    "**/*yarn*": true,
+    "**/*lock*": true
+  },
+  "editor.formatOnSave": true
+}
